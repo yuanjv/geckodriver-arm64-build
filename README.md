@@ -5,3 +5,4 @@ Official build only support the newer versions of linux kernel: https://github.c
 
 this is an unofficial build of geckodriver for arm64/aarch64 debian 11, which uses linux kernel of 5.10.43
 (build on Orangepi 4 LTS with linux kernel of 5.10.43)
+(ubuntu 5.11 is also usable, I did not test any others)
